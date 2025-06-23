@@ -1,4 +1,2 @@
-Local Change - 01
-Local Changes - 02
-Remote Changes - 03
-Remote Changes - 04
+Name - Name 1
+City - City 1
